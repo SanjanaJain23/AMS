@@ -1,5 +1,5 @@
 	// Change index to log as other team meambers 
-	var loggedInIndex = 1;
+	var loggedInIndex = 2;
 
 	// Onchange of date get dynamic data and refill form
 	function updateFromDate(e) {
