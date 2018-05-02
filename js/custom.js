@@ -79,7 +79,7 @@
 	                eventLimit: 3 // adjust to 6 only for agendaWeek/agendaDay
 	            }
 	        },
-	        events: '../data.json',
+	        events: 'data.json',
 	        eventRender: function(event, element) {
 	            var name = event.name
 	            name = name.split(" ");
@@ -104,7 +104,7 @@
 	function getData(callback) {
 	    var data;
 	    $.ajax({
-	        url: '../data.json',
+	        url: 'data.json',
 	        async: false,
 	        success: function(result) {
 	            data = result;
