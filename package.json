@@ -1,0 +1,18 @@
+{
+  "name": "ams",
+  "version": "1.0.0",
+  "description": "Absence Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjana Jain",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "fancybox": "^3.0.1",
+    "fullcalendar": "^3.9.0",
+    "jquery": "1.12.2",
+    "moment": "^2.21.0"
+  }
+}

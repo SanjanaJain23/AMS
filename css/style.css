@@ -1,0 +1,33 @@
+         #calendar{
+            width: 800px;
+            margin:0 auto;
+        }
+        .fc-time { 
+            display: none; 
+        }
+        .tm-wrapper {
+            position: absolute;
+            left: 0px;
+            right: 0px;            
+        }
+        .mar-btm-20 {            
+        margin-bottom: 20px;
+        }
+        .hideEle {
+            display: none;
+        }
+        #fancybox-popup-form {
+            width: 500px;
+        }
+        .pad0 {
+            padding: 0;
+        }
+        input[type=date]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            display: none;
+        }
+        input[type=date]::-webkit-clear-button
+        {
+            display: none; 
+            -webkit-appearance: none; 
+        }
