@@ -1,5 +1,5 @@
 # AMS
-Absence Management System
+Absence Management System(https://sanjanajain23.github.io/AMS/)
 
 OVERVIEW
 To allow planned absences to be managed better a user friendly interface allowing team members to enter
